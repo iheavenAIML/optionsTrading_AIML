@@ -8,7 +8,7 @@ This decision hinges on analyzing historical correlations between the Russell 20
 
 The trader must navigate the complex interplay of market forces to decide whether the potential gains from a straddle position outweigh the associated risks, ensuring informed and strategic decision-making in volatile market conditions.
 
-_**Executive Summary**_:
+_**Executive Summary** (work in progress)_:
 
 make a Russell 2000 movement prediction:
 
@@ -41,7 +41,7 @@ _**Key Steps Performed During Analysis**_:
 6. we've incorporated financial markets domain knowledge to guide our exploration
 7. and, finally we've kept track of our observations, findings, and any actions taken during the data exploration process and presented them in this very README.md
 
-_**In conclusion**_:
+_**In conclusion** (work in progress)_:
 
 tbd
 
