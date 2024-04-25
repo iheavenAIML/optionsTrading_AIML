@@ -29,19 +29,21 @@ make an options trading strategy recommendation based on the predictors’ outco
 tbd
 
 
-Please find an in-depth data analysis and AI modeling with the code base in the following file: [Jupiter Notebook with detailed analysis and code base](https://github.com/iheavenAIML/AIML_liveproject_02/blob/main/practicalApplication_v02_iheaven.ipynb)
+Please find an in-depth data analysis and AI modeling with the code base in the following file: <link to notebook here>
 
 _**Key Steps Performed During Analysis**_:
 
 1. we've explored the data by loading it and analyzing the dataset using functions like `head()`, `info()`, `describe()` among other Panda's build-in methods
 2. we've examined each column individually to understand the type and relevance of data it contained
-3. we've identify missing values (39 in total) in the dataset and imputated valued based on domane knowledge and its potential impact on the analysis
+3. we've identified missing values (39 in total) in the dataset and imputed values based on domain knowledge and its potential impact on the analysis
 4. we've looked into any inconsistencies, errors, or anomalies in the data (this could've included duplicate records, incorrect data types, inconsistent formatting, or unexpected values)
 5. we've explored relationships between different features in the dataset by utilizing visualization techniques like scatter plots, histograms, and correlation matrices
 6. we've incorporated financial markets domain knowledge to guide our exploration
-7. and, finally we've kept track of our observations, findings, and any actions taken during the data exploration process and prensed them in this very README.md
+7. and, finally we've kept track of our observations, findings, and any actions taken during the data exploration process and presented them in this very README.md
 
 _**In conclusion**_:
+
+tbd
 
 Want to chat a bit more about the findings? Options trading? Have an opinion that may enhance the results? Let's definitely connect!
 
