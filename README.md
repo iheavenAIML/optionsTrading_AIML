@@ -1,4 +1,4 @@
-_**Scope of the project / Research Question**_:
+_**Scope of the Project / Research Question**_:
 
 Under which circumstances an options trader should use a straddle trading strategy based on the Russell 2000 index performance and imminent market disruptions like FOMC announcements and other 'black swan' events?
 
